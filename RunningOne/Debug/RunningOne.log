@@ -1,0 +1,15 @@
+﻿  Editor.cpp
+  MenuPanel.cpp
+  RunningOne.cpp
+F:\Leisure\GameProjects\Animation\Animation\RunningOne\RunningOne.cpp(19,69): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Leisure\GameProjects\Animation\Animation\RunningOne\RunningOne.cpp(19,55): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  RunningOne.vcxproj -> F:\Leisure\GameProjects\Animation\Animation\RunningOne\Debug\RunningOne.exe
